@@ -1,0 +1,13 @@
+.DS_Store
+.idea/
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# The original task-1 files are 17 MB and 162 MB. They remain local.
+data/raw/problem1-reg_data.csv
+data/raw/problem1-auth_data.csv
