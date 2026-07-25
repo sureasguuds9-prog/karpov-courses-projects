@@ -1,0 +1,329 @@
+uid;country;joined_at;paid_at;revenue;payment_id;from_page;product_type
+891266616;Argentina;2017-06-11 15:25:00;2017-10-11 17:35:00;6305;19;autorefill;coins
+892186737;Chile;2017-10-19 06:03:00;2017-04-11 08:53:00;4732;147;promo_09;premium_no_trial
+891959004;United States of America;2017-10-24 00:12:00;2017-10-31 02:12:00;10153;147;trial_vip_popup;trial_premium
+892115478;Spain;2017-10-20 20:39:00;2017-10-26 06:26:00;2366;67;empty_likes;other_type
+891592941;Switzerland;2017-10-31 12:40:00;2017-03-11 16:25:00;6292;147;promo_09;premium_no_trial
+892245918;France;2017-10-17 21:05:00;2017-10-17 22:35:00;6292;147;autoreply_message;premium_no_trial
+891862596;Italy;2017-10-26 01:40:00;2017-10-30 09:01:00;1261;19;empty_likes;coins
+891267564;Portugal;2017-06-11 15:06:00;2017-07-11 13:54:00;1482;68;none;premium_no_trial
+892395564;United States of America;2017-10-14 23:30:00;2017-10-14 23:32:00;2730;67;empty_likes;other_type
+892080081;Switzerland;2017-10-21 15:15:00;2017-10-22 16:37:00;4758;147;autoreply_message;premium_no_trial
+892128138;Argentina;2017-10-20 14:49:00;2017-11-15 02:15:00;1261;19;menu;coins
+892230228;United States of America;2017-10-18 06:29:00;2017-10-22 19:16:00;6292;147;promo_09;premium_no_trial
+892318245;United Kingdom (Great Britain);2017-10-16 11:26:00;2017-10-17 11:52:00;3783;67;empty_likes;other_type
+892139829;United Kingdom (Great Britain);2017-10-20 08:38:00;2017-10-20 08:41:00;5135;147;autoreply_message;premium_no_trial
+891655107;United States of America;2017-10-30 05:06:00;2017-08-11 19:12:00;9087;147;trial_vip_popup;trial_premium
+892230228;United States of America;2017-10-18 06:29:00;2017-10-22 08:23:00;3783;67;empty_likes;other_type
+891553092;Chile;2017-01-11 08:36:00;2017-03-11 19:07:00;6292;147;promo_09;premium_no_trial
+892318245;United Kingdom (Great Britain);2017-10-16 11:26:00;2017-10-19 18:34:00;6305;19;autorefill;coins
+891772902;Spain;2017-10-27 23:39:00;2017-10-29 10:39:00;6370;147;left_sidebar_menu;premium_no_trial
+891606141;United States of America;2017-10-31 04:43:00;2017-03-11 21:14:00;3783;67;empty_likes;other_type
+891609360;Italy;2017-10-31 02:07:00;2017-01-11 23:19:00;3913;146;empty_likes;coins
+891333651;France;2017-05-11 16:32:00;2017-09-11 15:34:00;728;146;empty_likes;coins
+892307238;Spain;2017-10-16 16:01:00;2017-10-16 20:41:00;63037;147;left_sidebar_menu;premium_no_trial
+891637005;Spain;2017-10-30 15:22:00;2017-10-30 16:18:00;1261;19;autorefill;coins
+891805089;Italy;2017-10-27 09:35:00;2017-10-31 11:52:00;3913;19;empty_likes;coins
+891897387;Australia;2017-10-25 10:44:00;2017-02-11 12:44:00;13208;147;trial_vip_popup;trial_premium
+891308457;Belgium;2017-05-11 22:28:00;2017-06-11 14:40:00;2314;67;empty_likes;other_type
+891805089;Italy;2017-10-27 09:35:00;2017-10-29 15:26:00;728;19;empty_likes;coins
+892115478;Spain;2017-10-20 20:39:00;2017-10-20 20:43:00;6474;147;left_sidebar_menu;premium_no_trial
+892435536;United States of America;2017-10-14 02:54:00;2017-10-14 02:57:00;4537;147;dating;premium_no_trial
+891637005;Spain;2017-10-30 15:22:00;2017-02-11 13:48:00;3783;67;gifts;other_type
+891841425;Chile;2017-10-26 14:51:00;2017-10-31 15:20:00;3783;67;empty_likes;other_type
+891805089;Italy;2017-10-27 09:35:00;2017-10-29 15:26:00;728;146;empty_likes;coins
+891647544;Israel;2017-10-30 10:14:00;2017-06-11 12:31:00;11102;147;trial_vip_popup;trial_premium
+891080040;Israel;2017-10-11 04:59:00;2017-12-11 11:45:00;3783;67;empty_likes;other_type
+892139829;United Kingdom (Great Britain);2017-10-20 08:38:00;2017-10-26 08:55:00;3614;19;menu;coins
+891160029;United States of America;2017-08-11 15:19:00;2017-08-11 15:25:00;3692;67;none;other_type
+891170697;United Kingdom (Great Britain);2017-08-11 09:55:00;2017-08-11 10:30:00;4693;147;left_sidebar_menu;premium_no_trial
+892254654;Belgium;2017-10-17 17:29:00;2017-10-24 19:45:00;12935;147;trial_vip_popup;trial_premium
+892080081;Switzerland;2017-10-21 15:15:00;2017-10-22 13:38:00;8346;146;empty_likes;coins
+892089717;Spain;2017-10-21 11:05:00;2017-10-26 10:52:00;3900;147;autoreply_message;premium_no_trial
+892354854;France;2017-10-15 18:51:00;2017-05-11 16:02:00;3900;146;menu;coins
+892438776;United States of America;2017-10-14 00:54:00;2017-10-23 12:31:00;12727;147;trial_vip_popup;trial_premium
+891317289;Chile;2017-05-11 20:23:00;2017-06-11 16:04:00;481;19;none;coins
+891077727;Argentina;2017-10-11 06:38:00;2017-10-11 16:33:00;6292;147;left_sidebar_menu;premium_no_trial
+892157331;United Arab Emirates;2017-10-19 21:42:00;2017-10-19 21:46:00;4914;147;left_sidebar_menu;premium_no_trial
+891266616;Argentina;2017-06-11 15:25:00;2017-08-11 05:22:00;6305;19;empty_likes;coins
+891778551;United Arab Emirates;2017-10-27 21:26:00;2017-10-27 22:30:00;81796;147;left_sidebar_menu;premium_no_trial
+891068079;Argentina;2017-10-11 11:45:00;2017-11-11 04:20:00;4004;146;empty_likes;coins
+891664350;Germany;2017-10-30 00:21:00;2017-01-11 22:36:00;2327;67;empty_mutual;other_type
+891857007;Spain;2017-10-26 06:37:00;2017-10-26 06:51:00;4095;147;none;premium_no_trial
+891957045;United Kingdom (Great Britain);2017-10-24 01:15:00;2017-10-28 18:06:00;2145;67;fans;other_type
+891080040;Israel;2017-10-11 04:59:00;2017-12-11 11:40:00;3783;67;empty_likes;other_type
+891841425;Chile;2017-10-26 14:51:00;2017-10-30 01:36:00;6292;147;popular_users_block;premium_no_trial
+892153296;United States of America;2017-10-19 23:20:00;2017-02-11 02:24:00;4537;147;promo_09;premium_no_trial
+891307146;Belgium;2017-05-11 22:46:00;2017-05-11 23:26:00;10608;68;none;premium_no_trial
+891213609;United States of America;2017-07-11 13:38:00;2017-07-11 22:30:00;6292;147;autoreply_message;premium_no_trial
+891592941;Switzerland;2017-10-31 12:40:00;2017-04-11 14:16:00;3900;146;empty_likes;coins
+891647544;Israel;2017-10-30 10:14:00;2017-03-11 14:02:00;6305;19;autorefill;coins
+891080040;Israel;2017-10-11 04:59:00;2017-11-13 00:14:00;1261;19;empty_likes;coins
+891938808;France;2017-10-24 13:34:00;2017-06-11 22:49:00;12649;147;trial_vip_popup;trial_premium
+891208638;Israel;2017-07-11 15:43:00;2017-08-11 19:01:00;871;19;empty_likes;coins
+891592491;United States of America;2017-10-31 12:53:00;2017-08-11 14:58:00;9087;147;trial_vip_popup;trial_premium
+892197879;Italy;2017-10-18 22:22:00;2017-10-18 22:39:00;1261;19;gifts;coins
+891655107;United States of America;2017-10-30 05:06:00;2017-10-31 18:39:00;2730;67;gifts;other_type
+892230228;United States of America;2017-10-18 06:29:00;2017-10-24 06:11:00;1261;19;menu;coins
+891841425;Chile;2017-10-26 14:51:00;2017-02-11 21:31:00;6305;19;empty_likes;coins
+891080040;Israel;2017-10-11 04:59:00;2017-11-13 00:24:00;1261;19;autorefill;coins
+891539271;France;2017-01-11 15:54:00;2017-06-11 02:16:00;6292;147;user_profile;premium_no_trial
+891774063;United States of America;2017-10-27 23:10:00;2017-10-27 23:38:00;2756;68;none;premium_no_trial
+891308457;Belgium;2017-05-11 22:28:00;2017-06-11 14:41:00;3913;146;empty_likes;coins
+891328884;Italy;2017-05-11 17:44:00;2017-11-13 19:45:00;16952;147;trial_vip_popup;trial_premium
+891805089;Italy;2017-10-27 09:35:00;2017-10-28 13:08:00;2314;67;empty_likes;other_type
+892385232;United States of America;2017-10-15 05:41:00;2017-10-16 08:30:00;6292;147;promo_09;premium_no_trial
+892247952;United States of America;2017-10-17 20:21:00;2017-04-11 04:57:00;6422;147;promo_09;premium_no_trial
+891722802;United States of America;2017-10-29 02:08:00;2017-04-11 17:39:00;1261;19;menu;coins
+892230228;United States of America;2017-10-18 06:29:00;2017-10-24 06:11:00;1261;19;empty_likes;coins
+891080040;Israel;2017-10-11 04:59:00;2017-11-14 20:16:00;1261;19;empty_likes;coins
+891625629;Italy;2017-10-30 19:29:00;2017-11-11 10:21:00;6292;147;popular_users_block;premium_no_trial
+891323850;Chile;2017-05-11 18:57:00;2017-12-11 21:01:00;13273;147;left_sidebar_menu;trial_premium
+892174794;United States of America;2017-10-19 13:55:00;2017-10-21 20:08:00;897;19;empty_likes;coins
+892343331;France;2017-10-15 22:08:00;2017-10-15 23:24:00;2873;68;none;premium_no_trial
+891637005;Spain;2017-10-30 15:22:00;2017-10-30 15:59:00;1261;19;autorefill;coins
+891208638;Israel;2017-07-11 15:43:00;2017-08-11 19:01:00;871;146;empty_likes;coins
+892331310;Italy;2017-10-16 03:06:00;2017-10-16 18:24:00;6539;147;promo_09;premium_no_trial
+892190826;United States of America;2017-10-19 01:58:00;2017-10-20 16:12:00;845;146;empty_likes;coins
+891862596;Italy;2017-10-26 01:40:00;2017-10-30 09:01:00;1261;19;empty_likes;coins
+892307238;Spain;2017-10-16 16:01:00;2017-10-16 20:42:00;12610;19;menu;coins
+891877569;France;2017-10-25 19:32:00;2017-02-11 01:55:00;12675;147;trial_vip_popup;trial_premium
+892314981;Belgium;2017-10-16 12:51:00;2017-10-24 19:20:00;1261;19;empty_likes;coins
+891219540;Australia;2017-07-11 10:50:00;2017-07-11 10:58:00;4719;0;none;premium_no_trial
+892139829;United Kingdom (Great Britain);2017-10-20 08:38:00;2017-10-26 08:53:00;689;146;empty_likes;coins
+891826944;Germany;2017-10-26 20:47:00;2017-10-31 22:51:00;6292;147;popular_users_block;premium_no_trial
+892215174;Belgium;2017-10-18 15:17:00;2017-10-25 17:17:00;16835;147;trial_vip_popup;trial_premium
+891291906;Spain;2017-06-11 04:21:00;2017-06-11 04:59:00;6292;147;autoreply_message;premium_no_trial
+892149546;United States of America;2017-10-20 01:03:00;2017-10-27 03:03:00;9087;147;trial_vip_popup;trial_premium
+892230228;United States of America;2017-10-18 06:29:00;2017-10-31 07:04:00;3783;67;empty_likes;other_type
+891664350;Germany;2017-10-30 00:21:00;2017-03-11 02:57:00;19513;146;empty_likes;coins
+891662685;France;2017-10-30 00:53:00;2017-10-30 00:59:00;2717;67;none;other_type
+892435536;United States of America;2017-10-14 02:54:00;2017-10-14 16:50:00;897;146;empty_likes;coins
+892085121;United Kingdom (Great Britain);2017-10-21 13:07:00;2017-10-22 14:46:00;6292;147;left_sidebar_menu;premium_no_trial
+891182466;Belgium;2017-08-11 01:08:00;2017-08-11 22:59:00;3042;19;none;coins
+891902067;Italy;2017-10-25 07:59:00;2017-10-25 10:39:00;741;146;menu;coins
+892230228;United States of America;2017-10-18 06:29:00;2017-10-22 23:23:00;1261;19;autorefill;coins
+891949272;Chile;2017-10-24 07:25:00;2017-10-24 23:53:00;6305;19;empty_likes;coins
+892190826;United States of America;2017-10-19 01:58:00;2017-10-20 16:12:00;845;19;empty_likes;coins
+891112263;United States of America;2017-09-11 15:59:00;2017-11-11 14:55:00;4680;147;popular_users_chat;premium_no_trial
+891295332;United States of America;2017-06-11 02:33:00;2017-06-11 02:40:00;9100;147;dating;premium_no_trial
+892197879;Italy;2017-10-18 22:22:00;2017-10-19 01:57:00;1261;19;autorefill;coins
+891532506;United States of America;2017-01-11 18:51:00;2017-06-11 12:30:00;4537;147;autoreply_message;premium_no_trial
+892128138;Argentina;2017-10-20 14:49:00;2017-02-11 06:11:00;6305;19;autorefill;coins
+892204536;France;2017-10-18 19:50:00;2017-10-18 19:55:00;6409;147;autoreply_message;premium_no_trial
+892358799;United States of America;2017-10-15 17:36:00;2017-10-18 01:12:00;6305;19;empty_likes;coins
+891312516;United States of America;2017-05-11 21:27:00;2017-12-11 23:28:00;12727;147;trial_vip_popup;trial_premium
+891961587;Portugal;2017-10-23 23:05:00;2017-10-26 12:38:00;6292;147;promo_09;premium_no_trial
+891911091;Belgium;2017-10-25 00:49:00;2017-10-25 02:25:00;6292;147;dating;premium_no_trial
+891791565;Lithuania;2017-10-27 16:03:00;2017-03-11 21:54:00;12766;147;trial_vip_popup;trial_premium
+891952095;United States of America;2017-10-24 05:29:00;2017-10-24 05:58:00;4537;147;autoreply_message;premium_no_trial
+891961587;Portugal;2017-10-23 23:05:00;2017-10-25 01:24:00;6305;19;empty_likes;coins
+892101666;United States of America;2017-10-21 03:38:00;2017-10-28 05:38:00;12727;147;trial_vip_popup;trial_premium
+891625629;Italy;2017-10-30 19:29:00;2017-11-13 21:14:00;1261;19;autorefill;coins
+891962115;Spain;2017-10-23 22:53:00;2017-10-31 00:54:00;16653;147;trial_vip_popup;trial_premium
+892225545;Argentina;2017-10-18 09:55:00;2017-10-25 12:18:00;10699;147;trial_vip_popup;trial_premium
+892139829;United Kingdom (Great Britain);2017-10-20 08:38:00;2017-10-24 08:33:00;2483;19;none;coins
+891606141;United States of America;2017-10-31 04:43:00;2017-03-11 21:14:00;6305;19;empty_likes;coins
+891232197;Italy;2017-07-11 03:04:00;2017-07-11 10:02:00;3900;146;empty_likes;coins
+891924273;France;2017-10-24 19:38:00;2017-10-25 07:39:00;12818;147;trial_vip_popup;trial_premium
+891655107;United States of America;2017-10-30 05:06:00;2017-10-31 18:40:00;897;146;gifts;coins
+891206280;United States of America;2017-07-11 16:38:00;2017-11-14 18:38:00;9087;147;trial_vip_popup;trial_premium
+891937068;Portugal;2017-10-24 14:22:00;2017-01-11 05:34:00;2015;19;none;coins
+891355422;United States of America;2017-05-11 09:48:00;2017-05-11 09:49:00;4537;147;popular_users_block;premium_no_trial
+892128138;Argentina;2017-10-20 14:49:00;2017-10-28 22:49:00;6305;19;empty_likes;coins
+891728889;United States of America;2017-10-28 23:09:00;2017-05-11 01:15:00;9087;147;trial_vip_popup;trial_premium
+892106799;United States of America;2017-10-21 00:21:00;2017-10-28 02:21:00;12727;147;trial_vip_popup;trial_premium
+891112263;United States of America;2017-09-11 15:59:00;2017-11-13 21:32:00;6305;19;autorefill;coins
+891877863;United States of America;2017-10-25 19:23:00;2017-10-27 02:14:00;12610;19;empty_likes;coins
+892345869;Chile;2017-10-15 21:22:00;2017-10-15 21:35:00;2457;67;empty_likes;other_type
+892331310;Italy;2017-10-16 03:06:00;2017-10-17 00:14:00;2366;67;fans;other_type
+891580662;Italy;2017-10-31 17:43:00;2017-10-11 14:17:00;12896;147;trial_vip_popup;trial_premium
+892064328;United States of America;2017-10-21 20:54:00;2017-10-21 23:00:00;6292;147;autoreply_message;premium_no_trial
+892069761;Argentina;2017-10-21 19:07:00;2017-10-23 20:14:00;6305;19;empty_likes;coins
+892278621;United States of America;2017-10-17 02:58:00;2017-10-18 14:34:00;4602;146;empty_likes;coins
+891949272;Chile;2017-10-24 07:25:00;2017-10-24 08:14:00;6292;147;autoreply_message;premium_no_trial
+891878595;Italy;2017-10-25 19:06:00;2017-02-11 12:22:00;1261;19;empty_likes;coins
+891219540;Australia;2017-07-11 10:50:00;2017-07-11 10:58:00;4719;147;none;premium_no_trial
+892358799;United States of America;2017-10-15 17:36:00;2017-10-16 14:12:00;1261;19;empty_likes;coins
+892064328;United States of America;2017-10-21 20:54:00;2017-10-22 01:30:00;6305;19;empty_likes;coins
+891655107;United States of America;2017-10-30 05:06:00;2017-06-11 18:32:00;4550;19;empty_likes;coins
+892384110;United States of America;2017-10-15 06:33:00;2017-10-23 13:23:00;9087;147;trial_vip_popup;trial_premium
+891841752;United States of America;2017-10-26 14:44:00;2017-09-11 00:24:00;1586;67;empty_likes;other_type
+891080040;Israel;2017-10-11 04:59:00;2017-11-13 00:13:00;1261;19;empty_likes;coins
+891247233;United States of America;2017-06-11 21:19:00;2017-11-14 23:21:00;9919;147;trial_vip_popup;trial_premium
+891436977;Spain;2017-03-11 20:48:00;2017-10-11 22:48:00;16666;147;trial_vip_popup;trial_premium
+891675498;United States of America;2017-10-29 20:56:00;2017-07-11 01:55:00;9087;147;trial_vip_popup;trial_premium
+892174794;United States of America;2017-10-19 13:55:00;2017-10-21 20:12:00;4537;147;left_sidebar_menu;premium_no_trial
+891995541;Ukraine;2017-10-23 08:05:00;2017-10-25 15:57:00;1261;19;empty_likes;coins
+891266616;Argentina;2017-06-11 15:25:00;2017-07-11 00:08:00;6292;147;promo_09;premium_no_trial
+891510537;United States of America;2017-02-11 08:11:00;2017-09-11 10:19:00;9087;147;trial_vip_popup;trial_premium
+892243980;Germany;2017-10-17 21:52:00;2017-10-25 17:08:00;12727;147;trial_vip_popup;trial_premium
+892332372;Portugal;2017-10-16 02:27:00;2017-10-22 01:42:00;6578;147;promo_09;premium_no_trial
+891625629;Italy;2017-10-30 19:29:00;2017-11-13 21:13:00;1261;19;empty_likes;coins
+891637005;Spain;2017-10-30 15:22:00;2017-10-30 15:57:00;1261;19;autorefill;coins
+891722802;United States of America;2017-10-29 02:08:00;2017-03-11 01:17:00;6305;19;empty_likes;coins
+891647544;Israel;2017-10-30 10:14:00;2017-10-31 20:12:00;6305;19;empty_likes;coins
+892364742;Switzerland;2017-10-15 15:38:00;2017-10-15 16:00:00;4797;147;autoreply_message;premium_no_trial
+891259935;Argentina;2017-06-11 17:33:00;2017-07-11 19:55:00;5278;147;popular_users_block;premium_no_trial
+891637005;Spain;2017-10-30 15:22:00;2017-10-30 16:08:00;1261;19;autorefill;coins
+891637005;Spain;2017-10-30 15:22:00;2017-10-30 15:53:00;1261;19;gifts;coins
+892334679;Belgium;2017-10-16 01:15:00;2017-10-24 12:49:00;6461;147;promo_09;premium_no_trial
+891112263;United States of America;2017-09-11 15:59:00;2017-12-11 12:59:00;6305;19;menu;coins
+891862596;Italy;2017-10-26 01:40:00;2017-10-29 14:14:00;6292;147;promo_09;premium_no_trial
+892128138;Argentina;2017-10-20 14:49:00;2017-11-15 02:15:00;6305;19;autorefill;coins
+892011144;United States of America;2017-10-22 22:18:00;2017-10-22 22:58:00;1261;19;empty_likes;coins
+892272390;France;2017-10-17 08:13:00;2017-10-20 01:51:00;1859;19;none;coins
+891664350;Germany;2017-10-30 00:21:00;2017-01-11 22:36:00;6279;147;left_sidebar_menu;premium_no_trial
+891306822;United Arab Emirates;2017-05-11 22:51:00;2017-06-11 16:39:00;6292;147;dating;premium_no_trial
+891675681;Italy;2017-10-29 20:53:00;2017-10-31 06:44:00;6305;19;empty_likes;coins
+891333651;France;2017-05-11 16:32:00;2017-09-11 15:34:00;728;19;empty_likes;coins
+891937068;Portugal;2017-10-24 14:22:00;2017-10-27 22:22:00;2015;19;none;coins
+891789270;Italy;2017-10-27 17:03:00;2017-04-11 21:23:00;728;146;gifts;coins
+892278621;United States of America;2017-10-17 02:58:00;2017-10-20 20:07:00;4550;19;empty_likes;coins
+891883854;United States of America;2017-10-25 16:55:00;2017-10-25 16:59:00;6461;147;autoreply_message;premium_no_trial
+892357668;United States of America;2017-10-15 17:58:00;2017-10-23 13:44:00;12727;147;dating;trial_premium
+892314981;Belgium;2017-10-16 12:51:00;2017-10-22 09:40:00;6292;147;promo_09;premium_no_trial
+892078278;Chile;2017-10-21 15:56:00;2017-10-28 17:58:00;9945;147;trial_vip_popup;trial_premium
+892128138;Argentina;2017-10-20 14:49:00;2017-10-31 15:46:00;10673;147;trial_vip_popup;trial_premium
+892435536;United States of America;2017-10-14 02:54:00;2017-10-14 16:50:00;897;19;empty_likes;coins
+891452592;France;2017-03-11 14:51:00;2017-04-11 20:12:00;2925;67;none;other_type
+891632037;United States of America;2017-10-30 17:15:00;2017-06-11 19:36:00;9087;147;trial_vip_popup;trial_premium
+891075072;United States of America;2017-10-11 08:23:00;2017-11-14 21:44:00;2327;67;empty_likes;other_type
+891659976;Canada;2017-10-30 01:55:00;2017-06-11 03:55:00;12831;147;trial_vip_popup;trial_premium
+891902067;Italy;2017-10-25 07:59:00;2017-10-26 16:38:00;1482;19;sympathy;other_type
+891644802;Argentina;2017-10-30 11:50:00;2017-10-30 12:23:00;5265;147;left_sidebar_menu;premium_no_trial
+892174794;United States of America;2017-10-19 13:55:00;2017-10-21 20:07:00;897;146;empty_likes;coins
+892190826;United States of America;2017-10-19 01:58:00;2017-10-19 02:32:00;7982;147;autoreply_message;premium_no_trial
+892435536;United States of America;2017-10-14 02:54:00;2017-11-14 04:57:00;4537;147;dating;premium_no_trial
+892139829;United Kingdom (Great Britain);2017-10-20 08:38:00;2017-10-23 13:54:00;5161;147;promo_09;premium_no_trial
+892336548;France;2017-10-16 00:27:00;2017-10-11 21:26:00;12714;147;trial_vip_popup;trial_premium
+891728544;United States of America;2017-10-28 23:18:00;2017-05-11 01:18:00;12727;147;trial_vip_popup;trial_premium
+891136632;Argentina;2017-09-11 02:17:00;2017-11-13 21:55:00;10413;68;none;premium_no_trial
+891862596;Italy;2017-10-26 01:40:00;2017-10-30 09:06:00;1261;19;autorefill;coins
+892225545;Argentina;2017-10-18 09:55:00;2017-10-22 07:52:00;6305;19;empty_likes;coins
+891949272;Chile;2017-10-24 07:25:00;2017-10-24 23:52:00;3783;67;empty_likes;other_type
+891365604;United Kingdom (Great Britain);2017-05-11 03:50:00;2017-05-11 03:54:00;4537;147;send_message;premium_no_trial
+891654267;United States of America;2017-10-30 05:47:00;2017-10-30 06:02:00;5265;147;left_sidebar_menu;premium_no_trial
+891625629;Italy;2017-10-30 19:29:00;2017-12-11 00:39:00;1261;19;empty_likes;coins
+891290967;United States of America;2017-06-11 04:54:00;2017-06-11 05:14:00;4537;147;left_sidebar_menu;premium_no_trial
+892331310;Italy;2017-10-16 03:06:00;2017-10-16 12:03:00;3965;146;empty_likes;coins
+892106949;United States of America;2017-10-21 00:17:00;2017-10-21 01:48:00;6292;147;send_message;premium_no_trial
+891637005;Spain;2017-10-30 15:22:00;2017-10-30 15:48:00;3783;67;menu;other_type
+891143379;Italy;2017-08-11 22:35:00;2017-11-14 19:59:00;6500;147;popular_users_block;premium_no_trial
+891080040;Israel;2017-10-11 04:59:00;2017-11-13 00:15:00;1261;19;autorefill;coins
+891950754;Portugal;2017-10-24 06:24:00;2017-10-31 08:39:00;16913;147;left_sidebar_menu;trial_premium
+891748476;Israel;2017-10-28 14:47:00;2017-10-28 14:56:00;6292;147;dating;premium_no_trial
+891995541;Ukraine;2017-10-23 08:05:00;2017-10-23 10:02:00;6357;147;left_sidebar_menu;premium_no_trial
+892278621;United States of America;2017-10-17 02:58:00;2017-10-20 20:08:00;2730;67;empty_likes;other_type
+892040748;United States of America;2017-10-22 10:12:00;2017-10-22 10:37:00;845;146;ad_to_photo;coins
+892157331;United Arab Emirates;2017-10-19 21:42:00;2017-10-20 12:37:00;4602;146;empty_likes;coins
+891494307;Turkey;2017-02-11 16:45:00;2017-05-11 17:23:00;507;146;ad_to_photo;coins
+891452592;France;2017-03-11 14:51:00;2017-10-11 16:51:00;12701;147;trial_vip_popup;trial_premium
+891391332;France;2017-04-11 18:16:00;2017-04-11 18:26:00;2717;68;none;premium_no_trial
+892062660;United States of America;2017-10-21 21:28:00;2017-10-31 00:53:00;1261;19;empty_likes;coins
+891494307;Turkey;2017-02-11 16:45:00;2017-05-11 17:22:00;1573;67;ad_to_photo;other_type
+891435993;Canada;2017-03-11 21:08:00;2017-03-11 21:21:00;2548;19;none;coins
+892059429;United States of America;2017-10-21 22:33:00;2017-10-21 22:38:00;4537;147;left_sidebar_menu;premium_no_trial
+892011144;United States of America;2017-10-22 22:18:00;2017-10-22 22:27:00;6292;147;autoreply_message;premium_no_trial
+892070361;Chile;2017-10-21 18:54:00;2017-10-24 17:18:00;6292;147;left_sidebar_menu;premium_no_trial
+891672225;Austria;2017-10-29 21:59:00;2017-08-11 13:54:00;4056;19;none;coins
+891995541;Ukraine;2017-10-23 08:05:00;2017-10-26 09:37:00;1261;19;empty_likes;coins
+892009254;Italy;2017-10-22 22:57:00;2017-10-23 00:06:00;2353;67;empty_likes;other_type
+892021680;Canada;2017-10-22 18:37:00;2017-10-29 20:37:00;9815;147;trial_vip_popup;trial_premium
+892055331;United Arab Emirates;2017-10-22 00:04:00;2017-10-29 20:35:00;6292;147;left_sidebar_menu;premium_no_trial
+891672225;Austria;2017-10-29 21:59:00;2017-06-11 23:58:00;4056;68;none;premium_no_trial
+891668253;Chile;2017-10-29 23:08:00;2017-10-11 14:16:00;6305;19;empty_likes;coins
+891396237;United States of America;2017-04-11 16:42:00;2017-04-11 16:48:00;6292;147;autoreply_message;premium_no_trial
+892064328;United States of America;2017-10-21 20:54:00;2017-10-22 01:30:00;6305;19;empty_likes;coins
+891482937;United States of America;2017-02-11 21:36:00;2017-02-11 21:52:00;4732;147;send_message;premium_no_trial
+891494307;Turkey;2017-02-11 16:45:00;2017-09-11 19:30:00;7033;147;trial_vip_popup;trial_premium
+892001514;United States of America;2017-10-23 02:40:00;2017-10-26 07:24:00;4537;147;promo_09;premium_no_trial
+891861999;United Kingdom (Great Britain);2017-10-26 02:05:00;2017-02-11 13:03:00;6292;147;promo_09;premium_no_trial
+892332372;Portugal;2017-10-16 02:27:00;2017-10-26 23:05:00;741;146;ad_to_photo;coins
+892009254;Italy;2017-10-22 22:57:00;2017-10-23 00:06:00;2353;67;empty_likes;other_type
+892070361;Chile;2017-10-21 18:54:00;2017-10-24 17:20:00;3783;67;empty_likes;other_type
+892070361;Chile;2017-10-21 18:54:00;2017-10-24 17:19:00;3783;67;empty_likes;other_type
+891957045;United Kingdom (Great Britain);2017-10-24 01:15:00;2017-10-28 15:10:00;5148;147;left_sidebar_menu;premium_no_trial
+891907050;Argentina;2017-10-25 03:44:00;2017-11-13 22:50:00;10413;68;none;premium_no_trial
+891750606;France;2017-10-28 13:51:00;2017-10-29 14:38:00;7813;146;empty_likes;coins
+892139829;United Kingdom (Great Britain);2017-10-20 08:38:00;2017-10-22 12:44:00;5161;147;promo_09;premium_no_trial
+892230228;United States of America;2017-10-18 06:29:00;2017-10-22 08:52:00;3783;67;empty_likes;other_type
+892324413;Spain;2017-10-16 08:03:00;2017-10-16 18:13:00;6292;147;fans;premium_no_trial
+891722802;United States of America;2017-10-29 02:08:00;2017-04-11 17:46:00;1261;19;menu;coins
+892029222;France;2017-10-22 15:35:00;2017-10-25 00:50:00;6292;147;promo_09;premium_no_trial
+891902067;Italy;2017-10-25 07:59:00;2017-10-25 13:25:00;3783;67;menu;other_type
+892435536;United States of America;2017-10-14 02:54:00;2017-10-14 16:47:00;2730;67;empty_likes;other_type
+891260820;United States of America;2017-06-11 17:16:00;2017-06-11 17:37:00;897;146;gifts;coins
+891637005;Spain;2017-10-30 15:22:00;2017-02-11 13:48:00;6305;19;gifts;coins
+892009254;Italy;2017-10-22 22:57:00;2017-10-26 01:29:00;2366;67;ad_to_photo;other_type
+891365754;United States of America;2017-05-11 03:45:00;2017-05-11 03:52:00;3861;147;autoreply_message;premium_no_trial
+892230228;United States of America;2017-10-18 06:29:00;2017-10-22 23:22:00;1261;19;empty_likes;coins
+891160029;United States of America;2017-08-11 15:19:00;2017-08-11 15:48:00;3692;68;none;premium_no_trial
+892053750;United States of America;2017-10-22 00:46:00;2017-10-28 08:16:00;1261;19;ad_to_photo;coins
+892333464;United States of America;2017-10-16 01:51:00;2017-10-16 01:57:00;4537;147;none;premium_no_trial
+891789768;Israel;2017-10-27 16:51:00;2017-06-11 15:15:00;11102;147;trial_vip_popup;trial_premium
+892164795;France;2017-10-19 18:44:00;2017-10-26 20:48:00;16562;147;trial_vip_popup;trial_premium
+891436563;United States of America;2017-03-11 20:56:00;2017-07-11 12:04:00;14040;19;none;coins
+891675681;Italy;2017-10-29 20:53:00;2017-10-31 20:15:00;6305;19;autorefill;coins
+892001991;Italy;2017-10-23 02:20:00;2017-11-11 07:45:00;3926;146;empty_likes;coins
+891698172;Germany;2017-10-29 14:02:00;2017-05-11 18:01:00;16341;147;autoreply_message;trial_premium
+892230228;United States of America;2017-10-18 06:29:00;2017-10-24 06:08:00;3783;67;menu;other_type
+891854379;United States of America;2017-10-26 08:30:00;2017-10-26 09:42:00;4537;147;popular_users_block;premium_no_trial
+892318245;United Kingdom (Great Britain);2017-10-16 11:26:00;2017-10-17 11:56:00;6305;19;empty_likes;coins
+891637005;Spain;2017-10-30 15:22:00;2017-10-30 16:00:00;1261;19;autorefill;coins
+891937068;Portugal;2017-10-24 14:22:00;2017-10-27 22:24:00;2015;68;none;premium_no_trial
+891080040;Israel;2017-10-11 04:59:00;2017-11-14 20:15:00;1261;19;empty_likes;coins
+891681744;France;2017-10-29 19:11:00;2017-10-31 00:39:00;6344;147;promo_09;premium_no_trial
+891581349;France;2017-10-31 17:26:00;2017-08-11 21:15:00;2314;67;empty_likes;other_type
+892045743;Israel;2017-10-22 07:04:00;2017-10-23 20:17:00;1261;19;autorefill;coins
+892190826;United States of America;2017-10-19 01:58:00;2017-10-20 16:08:00;2379;67;empty_likes;other_type
+891606141;United States of America;2017-10-31 04:43:00;2017-03-11 21:13:00;6305;19;empty_likes;coins
+891637005;Spain;2017-10-30 15:22:00;2017-02-11 13:39:00;6396;147;left_sidebar_menu;premium_no_trial
+892318245;United Kingdom (Great Britain);2017-10-16 11:26:00;2017-10-19 06:33:00;6292;147;left_sidebar_menu;premium_no_trial
+892354854;France;2017-10-15 18:51:00;2017-10-15 19:26:00;6435;147;autoreply_message;premium_no_trial
+891494307;Turkey;2017-02-11 16:45:00;2017-08-11 23:09:00;2587;19;ad_to_photo;coins
+891668253;Chile;2017-10-29 23:08:00;2017-09-11 01:39:00;3783;67;empty_likes;other_type
+891722802;United States of America;2017-10-29 02:08:00;2017-04-11 17:47:00;1261;19;menu;coins
+892045743;Israel;2017-10-22 07:04:00;2017-10-23 20:17:00;1261;19;empty_likes;coins
+892146561;Portugal;2017-10-20 03:05:00;2017-10-20 03:16:00;7969;147;autoreply_message;premium_no_trial
+891208638;Israel;2017-07-11 15:43:00;2017-09-11 17:27:00;871;19;empty_likes;coins
+892062660;United States of America;2017-10-21 21:28:00;2017-10-31 00:53:00;1261;19;empty_likes;coins
+891436563;United States of America;2017-03-11 20:56:00;2017-05-11 16:05:00;9360;68;none;premium_no_trial
+891672225;Austria;2017-10-29 21:59:00;2017-07-11 11:26:00;4056;19;none;coins
+891999189;Chile;2017-10-23 04:57:00;2017-04-11 19:46:00;4732;147;popular_users_block;premium_no_trial
+891637005;Spain;2017-10-30 15:22:00;2017-02-11 13:38:00;6292;147;left_sidebar_menu;premium_no_trial
+892354854;France;2017-10-15 18:51:00;2017-05-11 16:00:00;2314;67;menu;other_type
+891118668;Canada;2017-09-11 13:24:00;2017-11-11 03:11:00;897;146;empty_likes;coins
+892040748;United States of America;2017-10-22 10:12:00;2017-10-29 12:16:00;12883;147;autoreply_message;trial_premium
+891303645;United States of America;2017-05-11 23:44:00;2017-06-11 00:04:00;6292;147;autoreply_message;premium_no_trial
+891755772;United States of America;2017-10-28 11:19:00;2017-10-29 03:57:00;4602;146;empty_likes;coins
+891068079;Argentina;2017-10-11 11:45:00;2017-12-11 15:23:00;6292;147;promo_09;premium_no_trial
+891310119;United States of America;2017-05-11 22:03:00;2017-11-13 00:27:00;9087;147;trial_vip_popup;trial_premium
+892115478;Spain;2017-10-20 20:39:00;2017-10-29 15:06:00;2314;67;empty_likes;other_type
+891267564;Portugal;2017-06-11 15:06:00;2017-09-11 15:21:00;1482;19;none;coins
+891365604;United Kingdom (Great Britain);2017-05-11 03:50:00;2017-11-11 03:31:00;2158;67;empty_likes;other_type
+891516846;United Kingdom (Great Britain);2017-02-11 02:03:00;2017-09-11 04:35:00;10400;147;trial_vip_popup;trial_premium
+891932496;United Kingdom (Great Britain);2017-10-24 16:19:00;2017-04-11 14:09:00;6292;147;promo_09;premium_no_trial
+891606141;United States of America;2017-10-31 04:43:00;2017-03-11 21:13:00;3783;67;empty_likes;other_type
+891291573;United States of America;2017-06-11 04:33:00;2017-09-11 05:55:00;6292;147;left_sidebar_menu;premium_no_trial
+892111575;Germany;2017-10-20 22:14:00;2017-10-20 22:27:00;7930;147;left_sidebar_menu;premium_no_trial
+892045743;Israel;2017-10-22 07:04:00;2017-10-22 18:35:00;6292;147;dating;premium_no_trial
+891118668;Canada;2017-09-11 13:24:00;2017-11-11 03:13:00;897;19;empty_likes;coins
+891182466;Belgium;2017-08-11 01:08:00;2017-08-11 10:19:00;3042;68;none;premium_no_trial
+892230228;United States of America;2017-10-18 06:29:00;2017-10-22 23:23:00;1261;19;empty_likes;coins
+892040748;United States of America;2017-10-22 10:12:00;2017-10-29 03:34:00;2366;67;empty_likes;other_type
+891691062;Belgium;2017-10-29 16:19:00;2017-05-11 18:35:00;16614;147;popular_users_block;trial_premium
+892075512;United States of America;2017-10-21 16:58:00;2017-08-11 12:18:00;9958;147;trial_vip_popup;trial_premium
+891722802;United States of America;2017-10-29 02:08:00;2017-05-11 05:49:00;12727;147;trial_vip_popup;trial_premium
+891393735;Spain;2017-04-11 17:31:00;2017-04-11 18:05:00;6292;147;dating;premium_no_trial
+892053750;United States of America;2017-10-22 00:46:00;2017-10-28 08:12:00;6292;147;autoreply_message;premium_no_trial
+891985866;Belgium;2017-10-23 13:19:00;2017-10-25 22:43:00;3965;146;empty_likes;coins
+891673269;United Arab Emirates;2017-10-29 21:40:00;2017-05-11 23:49:00;13247;147;dating;trial_premium
+892032072;United Kingdom (Great Britain);2017-10-22 14:21:00;2017-10-23 15:37:00;3588;68;none;premium_no_trial
+892045743;Israel;2017-10-22 07:04:00;2017-10-23 20:17:00;1261;19;empty_likes;coins
+891435993;Canada;2017-03-11 21:08:00;2017-03-11 21:26:00;3549;68;none;premium_no_trial
+891985866;Belgium;2017-10-23 13:19:00;2017-10-30 15:35:00;16640;147;trial_vip_popup;trial_premium
+891491145;United States of America;2017-02-11 18:13:00;2017-09-11 20:32:00;12727;147;send_message;trial_premium
+892053750;United States of America;2017-10-22 00:46:00;2017-10-28 08:17:00;1261;19;autorefill;coins
+891668253;Chile;2017-10-29 23:08:00;2017-11-15 00:57:00;9997;147;trial_vip_popup;trial_premium
+891459291;Spain;2017-03-11 11:43:00;2017-03-11 11:57:00;6292;147;autoreply_message;premium_no_trial

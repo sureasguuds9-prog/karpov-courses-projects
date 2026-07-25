@@ -57,6 +57,7 @@ mobile-game-product-analytics/
 - **[Прочитать итоговый отчёт](reports/final_report.md)** — краткий ответ по всем трём
   заданиям и рекомендация менеджеру.
 - **[Посмотреть функцию retention](src/retention.py)** — независимая от ноутбука реализация.
+- **[Разобрать формулы и статистическую логику](../docs/logic_and_formulas.md)** — объяснение retention, CR, ARPU, ARPPU и тестов.
 
 ## Методология
 

@@ -71,6 +71,9 @@ junior/junior+.
 
 [Открыть запрос сегментации](sql/customer_segmentation.sql)
 
+Общие формулы и логика статистических тестов собраны в
+[`../../docs/logic_and_formulas.md`](../../docs/logic_and_formulas.md).
+
 Источник данных в Redash: **StartDA (lab)**.
 
 Запрос возвращает для каждого из 10 000 клиентов:
