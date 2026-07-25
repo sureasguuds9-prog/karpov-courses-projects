@@ -29,6 +29,7 @@
 project-3-premium-price-ab-test/
 ├── data/raw/                  # шесть исходных CSV проекта
 ├── notebooks/project_3_variant_3.ipynb
+├── notebooks/project_3_variant_3_explained.ipynb
 ├── docs/how_to_repeat.md
 └── README.md
 ```
@@ -49,3 +50,6 @@ jupyter lab notebooks/project_3_variant_3.ipynb
 Полный разбор решения по шагам с объяснением «что делаем, зачем и как
 интерпретировать» находится в
 [`docs/project_3_step_by_step_explanation.md`](docs/project_3_step_by_step_explanation.md).
+
+Если нужен весь разбор прямо внутри Jupyter, открывайте
+[`project_3_variant_3_explained.ipynb`](notebooks/project_3_variant_3_explained.ipynb).
