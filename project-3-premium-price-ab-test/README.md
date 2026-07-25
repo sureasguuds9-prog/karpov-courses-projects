@@ -45,3 +45,7 @@ jupyter lab notebooks/project_3_variant_3.ipynb
 
 Общая логика формул находится в
 [`../../docs/logic_and_formulas.md`](../../docs/logic_and_formulas.md).
+
+Полный разбор решения по шагам с объяснением «что делаем, зачем и как
+интерпретировать» находится в
+[`docs/project_3_step_by_step_explanation.md`](docs/project_3_step_by_step_explanation.md).
