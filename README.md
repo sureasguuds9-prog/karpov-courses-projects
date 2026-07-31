@@ -11,6 +11,12 @@
 | [1. Аналитика мобильной игры](project-1-mobile-game-analytics/) | Retention, когортный анализ и A/B-тест | Python, Pandas, SciPy, статистика |
 | [2. A/B-тест оплаты и сегментация клиентов](project-2-payment-ab-segmentation/) | Анализ новой механики оплаты, статистические тесты, SQL-сегментация | Python, Pandas, SciPy, Statsmodels, PostgreSQL |
 | [3. A/B-тест цены премиума](project-3-premium-price-ab-test/) | Цена премиум-подписки, качество транзакций, CR, ARPU, статистические тесты | Python, Pandas, SciPy, Statsmodels |
+| [4. Продуктовый дашборд двух сервисов](project-4-superset-product-dashboard/) | DAU, взаимодействие ленты и мессенджера, портрет отправителей | Apache Superset, ClickHouse, продуктовые метрики |
+
+## Визуализация
+
+- [Продуктовый дашборд двух сервисов в Apache Superset](project-4-superset-product-dashboard/) — динамика активности, переход пользователей из ленты в мессенджер, сообщения по полу и возрастным группам, интерактивный фильтр периода.
+- [Открыть дашборд в Karpov.Courses](https://superset.lab.karpov.courses/superset/dashboard/8835/) — может потребоваться авторизация на учебной платформе.
 
 ## Логика и формулы
 
