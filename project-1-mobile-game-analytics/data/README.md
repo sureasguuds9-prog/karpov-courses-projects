@@ -8,14 +8,14 @@
 - `problem1-reg_data.csv` — 1 000 000 регистраций, около 17 МБ;
 - `problem1-auth_data.csv` — 9 601 013 авторизаций, около 162 МБ.
 
-В текущей версии ноутбука указаны пути владельца проекта:
+Ноутбук сначала ищет файлы в `data/raw`, а для двух крупных таблиц также проверяет локальную папку `Downloads` владельца проекта:
 
 ```python
 REG_PATH = Path('/Users/yaroslavzinchenko/Downloads/problem1-reg_data.csv')
 AUTH_PATH = Path('/Users/yaroslavzinchenko/Downloads/problem1-auth_data.csv')
-AB_PATH = Path('/Users/yaroslavzinchenko/Downloads/Проект_1_Задание_2.csv')
+AB_PATH = Path('../data/raw/ab_test.csv')
 ```
 
-На другом компьютере нужно изменить только эти три строки.
+На другом компьютере достаточно положить два крупных файла в `data/raw` или изменить пути `REG_PATH` и `AUTH_PATH`.
 
 На GitHub сохранены все выполненные ячейки, таблицы и графики анализа полного датасета.
