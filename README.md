@@ -12,6 +12,7 @@
 | [2. A/B-тест оплаты и сегментация клиентов](project-2-payment-ab-segmentation/) | Анализ новой механики оплаты, статистические тесты, SQL-сегментация | Python, Pandas, SciPy, Statsmodels, PostgreSQL |
 | [3. A/B-тест цены премиума](project-3-premium-price-ab-test/) | Цена премиум-подписки, качество транзакций, CR, ARPU, статистические тесты | Python, Pandas, SciPy, Statsmodels |
 | [4. Продуктовый дашборд двух сервисов](project-4-superset-product-dashboard/) | DAU, взаимодействие ленты и мессенджера, портрет отправителей | Apache Superset, ClickHouse, продуктовые метрики |
+| [5. Эффект флэшмоба в ленте](project-5-flashmob-causal-impact/) | Контрфактический прогноз и оценка краткосрочного эффекта маркетинговой активности | Python, CausalImpact, TensorFlow Probability, ClickHouse |
 
 ## Визуализация
 
