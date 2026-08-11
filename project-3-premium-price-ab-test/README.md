@@ -2,6 +2,12 @@
 
 Финальный учебный проект Karpov.Courses по проверке новой цены обычной премиум-подписки. Цена пробного периода не менялась.
 
+<a href="notebooks/project_3_variant_3.ipynb">
+  <img src="../assets/project-previews/project-3-premium-price-ab-test.png" alt="Ключевые результаты A/B-теста цены премиум-подписки" width="100%">
+</a>
+
+**Быстрые ссылки:** [выполненный ноутбук](notebooks/project_3_variant_3.ipynb) · [ноутбук с объяснениями](notebooks/project_3_variant_3_explained.ipynb) · [разбор по шагам](docs/project_3_step_by_step_explanation.md) · [как повторить](docs/how_to_repeat.md)
+
 ## Краткий вывод
 
 Новую цену **не следует раскатывать**. Более высокий чек оставшихся плательщиков не компенсировал снижение числа покупателей, а рост ARPU статистически не подтверждён.

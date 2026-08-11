@@ -2,6 +2,12 @@
 
 Финальный учебный проект Karpov.Courses: проверка новой механики оплаты, SQL-сегментация клиентов и автоматический пересчёт метрик после поступления новых назначений групп.
 
+<a href="notebooks/project_2_full.ipynb">
+  <img src="../assets/project-previews/project-2-payment-ab-segmentation.png" alt="Ключевые результаты A/B-теста оплаты" width="100%">
+</a>
+
+**Быстрые ссылки:** [полный ноутбук](notebooks/project_2_full.ipynb) · [простая версия](notebooks/project_2_simple.ipynb) · [SQL-сегментация](sql/customer_segmentation.sql) · [как повторить](docs/how_to_repeat.md)
+
 ## Краткий вывод
 
 Новую механику пока не следует раскатывать на всех пользователей. Статистически значимо вырос только ARPPU, но основная денежная метрика ARPU и конверсия не улучшились.
