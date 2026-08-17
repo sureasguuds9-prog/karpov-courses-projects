@@ -1,9 +1,10 @@
-"""Daily ETL for feed and messenger activity in the Karpov simulator.
+"""Ежедневный ETL активности ленты и мессенджера в симуляторе.
 
-Target table: test.yaroslav_zinchenko_daily_etl
-Grain: event_date x dimension x dimension_value.
+Целевая таблица: test.yaroslav_zinchenko_daily_etl.
+Гранулярность: event_date x dimension x dimension_value.
 """
 
+import os
 from datetime import datetime, timedelta
 from io import StringIO
 
@@ -16,11 +17,14 @@ DAG_ID = "jaroslav_zinchenko_rqq5838_daily_etl"
 SOURCE_SCHEMA = "simulator_20260720"
 FINAL_TABLE = "yaroslav_zinchenko_daily_etl"
 
-CH_HOST = "http://clickhouse.lab.karpov.courses:8123"
-CH_READ_USER = "student"
-CH_READ_PASSWORD = "dpo_python_2020"
-CH_WRITE_USER = "student-rw"
-CH_WRITE_PASSWORD = "656e2b0c9c"
+CH_HOST = os.environ.get(
+    "CH_HOST",
+    "http://clickhouse.lab.karpov.courses:8123",
+)
+CH_READ_USER = os.environ.get("CH_READ_USER", "student")
+CH_READ_PASSWORD = os.environ.get("CH_READ_PASSWORD")
+CH_WRITE_USER = os.environ.get("CH_WRITE_USER")
+CH_WRITE_PASSWORD = os.environ.get("CH_WRITE_PASSWORD")
 
 METRIC_COLUMNS = [
     "views",
@@ -41,7 +45,9 @@ default_args = {
 
 
 def ch_query(query):
-    """Run a SELECT query and return its TSV result as a DataFrame."""
+    """Выполнить SELECT и вернуть TSV-результат как DataFrame."""
+    if not CH_READ_PASSWORD:
+        raise RuntimeError("Не задана переменная CH_READ_PASSWORD")
     response = requests.post(
         CH_HOST,
         data=query.encode("utf-8"),
@@ -53,7 +59,11 @@ def ch_query(query):
 
 
 def ch_execute(query):
-    """Run a ClickHouse DDL/DML query."""
+    """Выполнить DDL- или DML-запрос в ClickHouse."""
+    if not CH_WRITE_USER or not CH_WRITE_PASSWORD:
+        raise RuntimeError(
+            "Не заданы переменные CH_WRITE_USER и CH_WRITE_PASSWORD"
+        )
     response = requests.post(
         CH_HOST,
         data=query.encode("utf-8"),
@@ -64,12 +74,12 @@ def ch_execute(query):
 
 
 def dataframe_to_tsv(dataframe):
-    """Serialize a DataFrame for a compact and predictable XCom payload."""
+    """Сериализовать DataFrame для компактной передачи через XCom."""
     return dataframe.to_csv(index=False, sep="\t")
 
 
 def dataframe_from_tsv(payload):
-    """Restore a DataFrame passed through XCom."""
+    """Восстановить DataFrame из значения, переданного через XCom."""
     return pd.read_csv(StringIO(payload), sep="\t")
 
 
@@ -83,7 +93,7 @@ def dataframe_from_tsv(payload):
 def daily_activity_etl():
     @task()
     def extract_feed(processing_date):
-        """Calculate daily feed views and likes for every user."""
+        """Посчитать просмотры и лайки за день для каждого пользователя."""
         query = f"""
             SELECT
                 toDate(time) AS event_date,
@@ -102,7 +112,7 @@ def daily_activity_etl():
 
     @task()
     def extract_messages(processing_date):
-        """Calculate daily sent and received message metrics per user."""
+        """Посчитать метрики отправленных и полученных сообщений."""
         query = f"""
             WITH
             sent AS (
@@ -173,7 +183,7 @@ def daily_activity_etl():
 
     @task()
     def merge_user_metrics(feed_tsv, messages_tsv):
-        """Combine feed and messenger data at user-day grain."""
+        """Объединить ленту и мессенджер на уровне пользователь-день."""
         feed = dataframe_from_tsv(feed_tsv)
         messages = dataframe_from_tsv(messages_tsv)
 
@@ -232,7 +242,7 @@ def daily_activity_etl():
 
     @task()
     def load_to_clickhouse(gender_tsv, age_tsv, os_tsv, processing_date):
-        """Create the target and replace only the processed daily partition."""
+        """Создать целевую таблицу и заменить данные расчётного дня."""
         create_table_query = f"""
             CREATE TABLE IF NOT EXISTS test.{FINAL_TABLE} (
                 event_date Date,
@@ -251,7 +261,7 @@ def daily_activity_etl():
         """
         ch_execute(create_table_query)
 
-        # Makes manual retries safe: a date can exist in the table only once.
+        # Повторный запуск безопасен: один день хранится в таблице один раз.
         delete_date_query = f"""
             ALTER TABLE test.{FINAL_TABLE}
             DELETE WHERE event_date = toDate('{processing_date}')
@@ -278,8 +288,7 @@ def daily_activity_etl():
         )
         ch_execute(insert_query)
 
-    # For a daily schedule Airflow's logical date represents the previous
-    # completed data interval, so {{ ds }} is the day that must be processed.
+    # В ежедневном DAG {{ ds }} обозначает завершённый расчётный день.
     processing_date = "{{ ds }}"
 
     feed_tsv = extract_feed(processing_date)
