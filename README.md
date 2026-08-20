@@ -18,13 +18,20 @@
 
 ## Финальный проект симулятора: от дашборда до алертов
 
-Уроки 2, 7, 8 и 9 симулятора образуют один сквозной конвейер мониторинга
-приложения — [продуктовый дашборд](project-4-superset-product-dashboard/) →
-[ежедневный ETL](simulator-projects/07_ETL_пайплайн/) →
-[Telegram-отчёты](simulator-projects/08_Автоматизация_отчетности/) →
-[алерты по аномалиям каждые 15 минут](simulator-projects/09_Поиск_аномалий/).
-Как они связаны, почему в таком порядке и какая логика детектирования
-аномалий — в [методичке финального проекта](docs/final_project_pipeline.md).
+<a href="docs/final_project_pipeline.md">
+  <img src="assets/project-previews/final-project-pipeline.png" alt="Конвейер мониторинга: дашборд, ETL, отчётность и алерты" width="100%">
+</a>
+
+Уроки 2, 7, 8 и 9 симулятора — не четыре отдельных задания, а один сквозной
+конвейер мониторинга ленты и мессенджера: [дашборд](project-4-superset-product-dashboard/)
+даёт посмотреть по запросу, [ETL](simulator-projects/07_ETL_пайплайн/) готовит
+агрегаты заранее, [Telegram-отчёты](simulator-projects/08_Автоматизация_отчетности/)
+сами приходят раз в сутки, а [алерты по аномалиям](simulator-projects/09_Поиск_аномалий/)
+сокращают это до 15 минут через IQR-коридор по тому же слоту суток за
+14 предыдущих дней. Как устроена каждая ступень и почему именно в таком
+порядке — в [методичке финального проекта](docs/final_project_pipeline.md).
+
+[Открыть методичку](docs/final_project_pipeline.md) · [Дашборд](project-4-superset-product-dashboard/) · [ETL](simulator-projects/07_ETL_пайплайн/) · [Отчётность](simulator-projects/08_Автоматизация_отчетности/) · [Алерты](simulator-projects/09_Поиск_аномалий/)
 
 ## Три варианта финального проекта
 
@@ -67,6 +74,7 @@
 | 3 | [A/B-тест цены премиум-подписки](project-3-premium-price-ab-test/) | Более высокая цена снизила конверсию и не дала доказанного роста ARPU | Python, SciPy, Statsmodels, A/A- и A/B-тесты |
 | 4 | [Продуктовый дашборд ленты и мессенджера](project-4-superset-product-dashboard/) | Собран мониторинг DAU, пересечения сервисов и структуры отправителей сообщений | Apache Superset, ClickHouse, SQL, BI |
 | 5 | [Оценка эффекта флэшмоба](project-5-flashmob-causal-impact/) | Флэшмоб краткосрочно усилил потребление контента, но не дал убедительного роста DAU | CausalImpact, TensorFlow Probability, ClickHouse |
+| ★ | [От дашборда до алерта — финальный проект симулятора](docs/final_project_pipeline.md) | Один конвейер: дашборд → ETL → отчётность → алерты за 15 минут вместо суток | Apache Superset, Airflow, ClickHouse, Telegram, IQR |
 
 ## Единый стандарт анализа
 
